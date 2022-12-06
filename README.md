@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# React Document Scanner
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+The project is a React + TypeScript demo for [Dynamic Web TWAIN](https://www.dynamsoft.com/web-twain/overview/).
 
 ## Available Scripts
 
